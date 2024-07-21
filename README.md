@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @MatthiasInACube
-- 👀 I’m interested in Data, Logic & GameDevOps
-- 🌱 I’m currently learning everything from scratch
-- 💞️ I’m looking to collaborate on GameDevOps on Unity
+- 👋 Hi, I’m @MatthiasInACube // Matthias
+- 💞️ I’m interested in Game Design and of course many other things in life
+- 🌱 I’m currently entering in a new phase - away from a succuessfull software start-up to self-employment and building up a new team in a new sector
+- ?! I’m looking to collaborate on game development in Unity
+- 👀 I'm search for someone sharing my passion and implement a hole game concept from the beginning. Are you interested? Look at my job description I will publish soon...
 - 📫 How to reach me - my e-mail: matthias.pauli@bluewin.ch
